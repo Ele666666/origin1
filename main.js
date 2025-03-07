@@ -11,3 +11,4 @@ document.addEventListener("DOMContentLoaded", () => {
         console.error("Elemento con ID 'toLogIn' non trovato!");
     }
 });
+
